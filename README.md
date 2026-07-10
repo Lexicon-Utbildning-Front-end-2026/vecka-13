@@ -16,6 +16,7 @@ Gå samman i era grupper.
 * Behärska grundläggande Git-kommandon i grupp.
 * Förstå Merge Conflicts och hur man löser dem.
 * Skapa teamets gemensamma spelregler (Working Agreement).
+* **PROJEKTSTART:** Ni får era instruktioner för grupprojektet.
 
 ---
 
@@ -75,7 +76,6 @@ En lagkamrat måste **Reviewa** och godkänna koden innan den får mergas.
 
 * Behärska Branching Strategies (Feature branches).
 * Skapa Pull Requests (PR) och genomföra Code Reviews.
-* **PROJEKTSTART:** Ni får era instruktioner för grupprojektet.
 
 ### 📚 Material
 
