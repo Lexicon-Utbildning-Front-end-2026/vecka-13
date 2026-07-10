@@ -16,7 +16,6 @@ Gå samman i era grupper.
 * Behärska grundläggande Git-kommandon i grupp.
 * Förstå Merge Conflicts och hur man löser dem.
 * Skapa teamets gemensamma spelregler (Working Agreement).
-* **PROJEKTSTART:** Ni får era instruktioner för grupprojektet.
 
 ---
 
@@ -33,6 +32,7 @@ Vi går från en att-göra-lista i huvudet till en visuell tavla.
 * Förstå agila värderingar (Individer framför processer).
 * Sätta upp GitHub Projects för teamet.
 * Skapa de första korten (Issues).
+* **PROJEKTSTART:** Ni får era instruktioner för grupprojektet.
 
 ### 📚 Material
 
