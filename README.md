@@ -17,6 +17,14 @@ Gå samman i era grupper.
 * Förstå Merge Conflicts och hur man löser dem.
 * Skapa teamets gemensamma spelregler (Working Agreement).
 
+### 📚 Material
+
+[Coder Coder - Git & GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=h2a3Kw-I_Ec)
+
+[Coder Coder - How to use Git & GitHub in VS Code](https://www.youtube.com/watch?v=1gDkpZ0AjlQ)
+
+[Coder Coder - How to resolve merge conflicts in Git](https://www.youtube.com/watch?v=1pwOLYnNDLo)
+
 ---
 
 ## 📅 Tisdag: Agila arbetssätt
