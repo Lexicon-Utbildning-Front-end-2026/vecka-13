@@ -8,14 +8,12 @@ Gå samman i era grupper.
 **Repository-setup:** En person skapar ett repo och bjuder in de andra.
 **Kollisionskurs:** Alla ska samtidigt försöka ändra på samma rad i en `README.md`, committa och pusha.
 **Lösningen:** Träna på att dra ner ändringar, lösa konflikter lokalt och pusha upp igen.
-**Working Agreement:** Skapa en fil i repot som heter `TEAM.md`. Skriv ner era tider, hur ni kommunicerar och vad som krävs för att ni ska vara nöjda med varandra på fredag.
 
 
 ### 🎯 Mål för dagen
 
 * Behärska grundläggande Git-kommandon i grupp.
 * Förstå Merge Conflicts och hur man löser dem.
-* Skapa teamets gemensamma spelregler (Working Agreement).
 
 ### 🎯 Gruppövning
 
@@ -39,6 +37,7 @@ Vi går från en att-göra-lista i huvudet till en visuell tavla.
 **Setup:** Skapa ett **GitHub Project** kopplat till ert team-repo.
 **Från Idé till Kort:** Spåna fram 10 saker en webshop behöver (t.ex. "Logga in", "Visa produkter"). Skapa en Issue för varje sak.
 **Prioritering:** Sortera korten i en "Backlog" efter vad som är viktigast.
+**Working Agreement:** Skapa en fil i repot som heter `TEAM.md`. Skriv ner era tider, hur ni kommunicerar och vad som krävs för att ni ska vara nöjda med varandra på fredag.
 
 
 ### 🎯 Mål för dagen
@@ -46,6 +45,7 @@ Vi går från en att-göra-lista i huvudet till en visuell tavla.
 * Förstå agila värderingar (Individer framför processer).
 * Sätta upp GitHub Projects för teamet.
 * Skapa de första korten (Issues).
+* Skapa teamets gemensamma spelregler (Working Agreement).
 * **PROJEKTSTART:** Ni får era instruktioner för grupprojektet.
 
 ### 📚 Material
