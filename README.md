@@ -23,6 +23,8 @@ Gå samman i era grupper.
 
 ### 📚 Material
 
+[Git fusklapp](/GIT-Commands.jpeg)
+
 [Coder Coder - Git & GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=h2a3Kw-I_Ec)
 
 [Coder Coder - How to use Git & GitHub in VS Code](https://www.youtube.com/watch?v=1gDkpZ0AjlQ)
