@@ -48,7 +48,7 @@ Vi går från en att-göra-lista i huvudet till en visuell tavla.
 * Skapa teamets gemensamma spelregler (Working Agreement).
 * **PROJEKTSTART:** Ni får era instruktioner för grupprojektet.
 
-[Startkod för grupprojektet](https://github.com/Lexicon-Utbildning-Front-end-2026/projekt-agila-metoder-startkod)
+[Webshop gruppuppgift](https://github.com/Lexicon-Utbildning-Front-end-2026/Webshop-admin)
 
 ### 🏋️ Eftermiddagsövning: "Building the Board"
 
