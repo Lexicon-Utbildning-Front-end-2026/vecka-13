@@ -50,6 +50,8 @@ Vi går från en att-göra-lista i huvudet till en visuell tavla.
 
 ### 📚 Material
 
+[Starta upp ett GH Projekt](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
+
 #### 📃 Läsning
 * [Agilt vs. vattenfall](https://echometerapp.com/sv/agil-vs-vattenfall/)
 
