@@ -37,15 +37,12 @@ Vi går från en att-göra-lista i huvudet till en visuell tavla.
 **Setup:** Skapa ett **GitHub Project** kopplat till ert team-repo.
 **Från Idé till Kort:** Spåna fram 10 saker en webshop behöver (t.ex. "Logga in", "Visa produkter"). Skapa en Issue för varje sak.
 **Prioritering:** Sortera korten i en "Backlog" efter vad som är viktigast.
-**Working Agreement:** Skapa en fil i repot som heter `TEAM.md`. Skriv ner era tider, hur ni kommunicerar och vad som krävs för att ni ska vara nöjda med varandra på fredag.
-
 
 ### 🎯 Mål för dagen
 
 * Förstå agila värderingar (Individer framför processer).
 * Sätta upp GitHub Projects för teamet.
 * Skapa de första korten (Issues).
-* Skapa teamets gemensamma spelregler (Working Agreement).
 * **PROJEKTSTART:** Ni får era instruktioner för grupprojektet.
 
 [Webshop gruppuppgift](https://github.com/Lexicon-Utbildning-Front-end-2026/Webshop-admin)
