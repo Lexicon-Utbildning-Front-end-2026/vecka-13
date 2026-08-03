@@ -17,6 +17,10 @@ Gå samman i era grupper.
 * Förstå Merge Conflicts och hur man löser dem.
 * Skapa teamets gemensamma spelregler (Working Agreement).
 
+### 🎯 Gruppövning
+
+[Gruppövning Git](https://github.com/Lexicon-Utbildning-Front-end-2026/Git-gruppovning)
+
 ### 📚 Material
 
 [Coder Coder - Git & GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=h2a3Kw-I_Ec)
