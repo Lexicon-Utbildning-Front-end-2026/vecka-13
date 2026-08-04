@@ -59,6 +59,8 @@ Prioritering: Sortera korten i en "Backlog" efter vad som är viktigast.
 
 [Starta upp ett GH Projekt](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
 
+[Agilt slides](/agilt-dag1.pdf)
+
 #### 📃 Läsning
 * [Agilt vs. vattenfall](https://echometerapp.com/sv/agil-vs-vattenfall/)
 
