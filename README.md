@@ -78,29 +78,27 @@ Hur pratar vi om funktioner så att alla förstår?
 * Skriva User Stories med formatet: *"Som en [roll], vill jag [mål], så att [nytta]"*.
 * Bryta ner stora krav (Epics) till hanterbara uppgifter (Tasks).
 * Förstå rollerna: Scrum Master, Product Owner och Teamet.
+* Ha erat första Daily Scrum.
 
 ### 📚 Material
 
 #### 📃 Läsning
 * [Sammanfattning av SCRUM](https://www.cornerstone.se/blogg/vad-menas-med-agil-metodik-och-agila-metoder/)
+* [Scrum Guide](https://scrumguides.org/scrum-guide.html)
 
 ---
 
-## 📅 Torsdag: Git fortsättning
+## 📅 Torsdag: Fortsättning
 
-Nu knyter vi ihop säcken. Hur kopplar vi det agila planerandet till den faktiska koden?
-Innan ni börjar med projektet, gör denna snabbövning:
-Skapa en ny branch: `git checkout -b feature/test-name`.
-Gör en ändring, pusha och skapa en **Pull Request** på GitHub.
-En lagkamrat måste **Reviewa** och godkänna koden innan den får mergas.
-**Koppla:** Lär er att skriva `Fixes #1` i er PR för att automatiskt stänga ett kort på projekt-tavlan.
-**Kontraktskrivning:** Ni skriver en överenskommelse över hur er versionshantering skall ske inom gruppen. Alla "skriver under". Spara som en readme-fil i ert projekt.
+Nu knyter vi ihop säcken. Nu ska ni knyta ihop allt ni lärt er om Agilt arbetssätt, Scrum, och GitHub Projects.
 
+Ni inleder dagen med en Daily Scrum (Daily Standup), då ni planerar arbetet för dagen, sen sätter ni igång och arbetar på uppgiften. 
 
 ### 🎯 Mål för dagen
 
 * Behärska Branching Strategies (Feature branches).
 * Skapa Pull Requests (PR) och genomföra Code Reviews.
+* Arbeta enligt Scrum.
 
 ### 📚 Material
 
@@ -109,15 +107,20 @@ En lagkamrat måste **Reviewa** och godkänna koden innan den får mergas.
 
 ---
 
-## 📅 Fredag: Standup
+## 📅 Fredag: Sprint Review och Sprint Retrospective
 
-Daily standup. Efter det arbetar ni i gruppen med det ni behöver (koda, planera, code review osv...)
+Börja dagen med en Daily standup. Efter det arbetar ni i gruppen med det ni behöver.
+
+Efter lunch planerar ni in ett Sprint Review, så ni ska gå igenom hur er "minisprint" gått. Har ni kommit dit ni planerade att komma de första dagaarna?
+
+Efter det tar ni en paus, och har sedan ett Sprint Retrospective. Då ska ni gå igenom hur Sprinten gått arbetsmässigt.
 
 
 ### 🎯 Mål för dagen
 
 * Genomföra ett "Daily Stand-up" (15 min).
-* Påbörja kodningen av projektets grundstomme.
+* Färdigställa veckans kodning av projektets grundstomme.
 * Fokusera på samarbete och att hjälpa varandra förbi hinder.
+* Utföra ett Sprint Review och ett Sprint Retrospective.
 
 ---
