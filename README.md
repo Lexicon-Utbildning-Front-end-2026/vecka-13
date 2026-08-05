@@ -82,6 +82,8 @@ Hur pratar vi om funktioner så att alla förstår?
 
 ### 📚 Material
 
+[Scrum slides](/agilt-dag2-scrum.pdf)
+
 #### 📃 Läsning
 * [Sammanfattning av SCRUM](https://www.cornerstone.se/blogg/vad-menas-med-agil-metodik-och-agila-metoder/)
 * [Scrum Guide](https://scrumguides.org/scrum-guide.html)
