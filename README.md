@@ -84,6 +84,8 @@ Hur pratar vi om funktioner så att alla förstår?
 
 [Scrum slides](/agilt-dag2-scrum.pdf)
 
+[Git Workflow & Code Review Guide](https://github.com/Lexicon-Utbildning-Front-end-2026/Agilt-Git-Workflow-Tips)
+
 #### 📃 Läsning
 * [Sammanfattning av SCRUM](https://www.cornerstone.se/blogg/vad-menas-med-agil-metodik-och-agila-metoder/)
 * [Scrum Guide](https://scrumguides.org/scrum-guide.html)
