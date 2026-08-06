@@ -113,11 +113,21 @@ Ni inleder dagen med en Daily Scrum (Daily Standup), då ni planerar arbetet fö
 
 ## 📅 Fredag: Sprint Review och Sprint Retrospective
 
-Börja dagen med en Daily standup. Efter det arbetar ni i gruppen med det ni behöver.
+### Förmiddagen: 
 
-Efter lunch planerar ni in ett Sprint Review, så ni ska gå igenom hur er "minisprint" gått. Har ni kommit dit ni planerade att komma de första dagaarna?
+(Förslagsvis 9.15) Börja dagen med en Daily standup. Efter det arbetar ni i gruppen med det ni behöver.
 
-Efter det tar ni en paus, och har sedan ett Sprint Retrospective. Då ska ni gå igenom hur Sprinten gått arbetsmässigt.
+### Eftermiddagen:
+
+**13.15: Spring Review**
+
+Ni samlas i gruppen för att ha er första Sprint Review. (ca 20-30 minuter).
+
+**14.00: Sprint Retrospective**
+
+Ni samlas återigen i grupperna för att ha er första Sprint Retrospective (ca 20-30 minuter). 
+
+[Lathund och tips inför Sprint Review & Retrospective](https://github.com/Lexicon-Utbildning-Front-end-2026/Scrum-sprint-review-retrospective)
 
 
 ### 🎯 Mål för dagen
